@@ -18,7 +18,7 @@ By embarking on this project, it hopes to inspire further developments in VR gam
 ### Executing Program ###
 - Upload codes onto Teensy 4.0 board
 - Connect the soft tactile sensors to circuitries (Teensy Board & Multiplexers)
-- The sift tactile sensors should now be able to provide keyboard inputs to the device that the Teensy 4.0 board is connected to
+- The soft tactile sensors should now be able to provide keyboard inputs to the device that the Teensy 4.0 board is connected to
 
 ### Demonstration ###
 - https://drive.google.com/drive/folders/1v8DZ0YG1a3QjJWIOlD7dEnoxR_MIopaR?usp=sharing 
